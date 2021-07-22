@@ -1,2 +1,6 @@
 primer linea archivo dos, ivan contreras
+<<<<<<< HEAD
 Modificación Agus 2
+=======
+modificacion 1 (ivan)
+>>>>>>> 475b2993917cf2d64b30e92608b256b40696ae38
