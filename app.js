@@ -3,4 +3,3 @@ function sumar();
 function({
 	console.log("hola mundo 2")
 })
-
